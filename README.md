@@ -1,4 +1,6 @@
-## Olá, eu sou o Artur
+## Hi! I'm Artur
+I'm currently working at Sulamérica as a Software Development Intern using Java as my main programing language
+
 
 
 <div align="center">
