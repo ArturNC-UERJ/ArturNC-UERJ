@@ -1,7 +1,7 @@
 ## Hi! I'm Artur
 I'm currently working at Sulamérica as a Software Development Intern using Java as my main programing language
 
-![](https://komarev.com/ghpvc/?arturnc-uerj&color=blue)
+![](https://komarev.com/ghpvc/?username=arturnc-uerj&color=blue)
 
 
 
