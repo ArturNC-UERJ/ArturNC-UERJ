@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 ## Hi! I'm Artur
 I'm currently working at Sulamérica as a Software Development Intern using Java as my main programing language
 
