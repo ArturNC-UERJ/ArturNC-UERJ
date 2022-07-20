@@ -16,6 +16,8 @@ I'm currently working at Sulamérica as a Software Development Intern using Java
   
 <div style="display: inline_block" align="center"><br>
   
+  <i class="devicon-devicon-plain"></i>
+  
   <img align="center" alt="Artur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Artur-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Artur-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
